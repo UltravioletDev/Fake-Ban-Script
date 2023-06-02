@@ -13,6 +13,7 @@ Fluxus | $FREE | Safe
 
 Commet | $FREE | 79% Safe
 [Download Here](https://wearedevs.net/d/Comet)
+OR
 [Direct Download Here](https://cdn.discordapp.com/attachments/979946522865172520/1079632452189945896/Comet_Updating_System_.exe)
 
 Synapse-X | $20 | 100% Safe -Down
@@ -39,4 +40,5 @@ You Can Also Just Lookup "Roblox Script Executer Download."
 # Other
 ## Copyright Claims, 6/2/2023 (June 6 2023)
 ### All rights reserved. This script is protected by copyright law.
-### Unauthorized copying, distribution, or reproduction of this script, in whole or in part, is strictly prohibited.
+### Any unauthorized copying, distribution, or reproduction of this script, whether in whole or in part, will be met with severe consequences and legal actions.
+### Violators will face relentless pursuit and the full force of the law.
